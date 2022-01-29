@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pizzaboi21
-- 👀 I’m interested in Blockchain Dev, Java, C++, Rust.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on Blockchain Development.
+- 👀 I’m interested in Blockchain Dev, Java, C++, Rust,Kubernetes.
+- 🌱 I’m currently learning Rust and JavaScript.
+- 💞️ I’m looking to collaborate on Blockchain Development/Open-Source.
 - 📫 How to reach me rohanguha9916@gmail.com 
 
 <!---
