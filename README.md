@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pizzaboi21
-- 👀 I’m interested in Java, Spring Boot, Hibernate, Kubernetes.
+- 👀 I’m interested in Java, Spring Boot, Hibernate, Kubernetes and AWS.
 - 🌱 I’m currently learning Spring Boot and Terraform.
 - 💞️ I’m looking to collaborate on Open-Source DevOps projects.
 - 📫 How to reach me rohanguha9916@gmail.com && rohan.209202179@muj.manipal.edu
