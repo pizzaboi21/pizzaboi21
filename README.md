@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pizzaboi21
 - 👀 I’m interested in Java, JavaScript, AI, Playwright, CI/CD and DevOps.
 - 🌱 I’m currently learning TypeScript and Playwright.
-- 💞️ I’m looking to collaborate on Open-Source, as well as looking for full time opportunities.
 - 📫 How to reach me rohanguha9916@gmail.com && rohan.209202179@muj.manipal.edu
 
 <!---
